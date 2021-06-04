@@ -1,0 +1,3 @@
+".\Objects\rfid.obj" 
+TO ".\Objects\rfidonly" 
+PRINT(".\Listings\rfidonly.m51")
